@@ -1,26 +1,26 @@
-Galaxy name,Redshift Independent Distance,,Distance (Mpc),redshift z,Velocity v (km/s),Spectral FITS
-NGC 99,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+99,,29.1,0.01796,5384.371404,https://skyserver.sdss.org/dr12/en/tools/explore/Summary.aspx?ra=5.99747&dec=15.770428
-NGC 2713,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+2713,,61.344,0.01657,4969.047487,https://skyserver.sdss.org/dr12/en/tools/explore/Summary.aspx?ra=134.33544&dec=2.921312
-NGC 3440,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+3440,,40.533,0.006647,1992.600992,https://skyserver.sdss.org/dr12/en/tools/explore/Summary.aspx?ra=163.456165&dec=57.118647
-NGC 7108,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+7108,,92.95,0.02638,7908.862786,https://skyserver.sdss.org/dr12/en/tools/explore/Summary.aspx?ra=325.473941&dec=-6.708839
-NGC 450,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+450,,17.613,0.006112,1832.259779,https://skyserver.sdss.org/dr12/en/tools/explore/Summary.aspx?ra=18.876&dec=-0.861
-NGC 5750,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+5750,,30.086,0.00896,2687.461305,https://skyserver.sdss.org/dr12/en/tools/explore/Summary.aspx?ra=221.546&dec=-0.223
-NGC 5719,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+5719,,26.118,0.0060328,1808.575429,https://skyserver.sdss.org/dr12/en/tools/explore/Summary.aspx?ra=220.235&dec=-0.318
-[BKD2008] WR 52,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=%5BBKD2008%5D+WR+52,,13.989,0.0053409,1601.16869,https://skyserver.sdss.org/dr12/en/tools/explore/Summary.aspx?ra=41.606&dec=-0.499
-NGC 5334,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+5334,,33.32,0.008086,2424.14183,https://skyserver.sdss.org/dr12/en/tools/explore/Summary.aspx?ra=208.227&dec=-1.114
-NGC 5496,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+5496,,21.887,0.005328,1597.276528,https://skyserver.sdss.org/dr12/en/tools/explore/summary.aspx?id=1237648702979375194%09
-MCG+00-34-005,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=MCG%2B00-34-005,71.1,,,,https://skyserver.sdss.org/dr12/en/tools/explore/summary.aspx?id=1237648703509364815%09
-NGC 5705,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+5705,26.193,,,,https://skyserver.sdss.org/dr12/en/tools/explore/summary.aspx?id=1237648703519326351
-NGC 5584,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+5584,21.619,,,,https://skyserver.sdss.org/dr12/en/tools/explore/summary.aspx?id=1237648704054296626%09
-NGC 4355,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+4355,22.967,,,,https://skyserver.sdss.org/dr12/en/tools/explore/summary.aspx?id=1237648720159965190%09
-NGC 5211,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+5211,47.325,,,,https://skyserver.sdss.org/dr12/en/tools/explore/summary.aspx?id=1237648720167174259%09
-IC 653,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=IC+653,80.933,,,,https://skyserver.sdss.org/dr12/en/tools/explore/summary.aspx?id=1237648720686415913
-NGC 4592,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+4592,11.589,,,,https://skyserver.sdss.org/dr12/en/tools/explore/summary.aspx?id=1237648720698146893%09
-NGC 4668,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+4668,16.537,,,,https://skyserver.sdss.org/dr12/en/tools/explore/summary.aspx?id=1237648720698867721%09
-NGC 3325,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+3325,60,,,,https://skyserver.sdss.org/dr12/en/tools/explore/summary.aspx?id=1237648721221910580%09
-Mrk 778,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=Mrk+778,106,,,,https://skyserver.sdss.org/dr12/en/tools/explore/summary.aspx?id=1237648721771888672%09
-NGC 3719,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+3719,88.571,,,,https://skyserver.sdss.org/dr12/en/tools/explore/summary.aspx?id=1237648722301419653%09
-UGC 6903,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=UGC+6903,30.5,,,,https://skyserver.sdss.org/dr12/en/tools/explore/summary.aspx?id=1237648722840846413%09
-UGC 1083,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=UGC+1083,72,,,,https://skyserver.sdss.org/dr12/en/tools/explore/summary.aspx?id=1237649919505858723%09
-NGC 774,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+774,54.775,,,,https://skyserver.sdss.org/dr12/en/tools/explore/summary.aspx?id=1237649954407907351%09
-NGC 1285,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+1285,55.333,,,,https://skyserver.sdss.org/dr12/en/tools/explore/summary.aspx?id=1237649962454941712%09
+Galaxy name,Redshift Independent Distance,Distance (Mpc),redshift z,Velocity v (km/s),Spectral FITS
+NGC 99,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+99,29.1,0.01796,5384.371404,https://skyserver.sdss.org/dr12/en/tools/explore/Summary.aspx?ra=5.99747&dec=15.770428
+NGC 2713,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+2713,61.344,0.01657,4969.047487,https://skyserver.sdss.org/dr12/en/tools/explore/Summary.aspx?ra=134.33544&dec=2.921312
+NGC 3440,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+3440,40.533,0.006647,1992.600992,https://skyserver.sdss.org/dr12/en/tools/explore/Summary.aspx?ra=163.456165&dec=57.118647
+NGC 7108,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+7108,92.95,0.02638,7908.862786,https://skyserver.sdss.org/dr12/en/tools/explore/Summary.aspx?ra=325.473941&dec=-6.708839
+NGC 450,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+450,17.613,0.006112,1832.259779,https://skyserver.sdss.org/dr12/en/tools/explore/Summary.aspx?ra=18.876&dec=-0.861
+NGC 5750,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+5750,30.086,0.00896,2687.461305,https://skyserver.sdss.org/dr12/en/tools/explore/Summary.aspx?ra=221.546&dec=-0.223
+NGC 5719,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+5719,26.118,0.0060328,1808.575429,https://skyserver.sdss.org/dr12/en/tools/explore/Summary.aspx?ra=220.235&dec=-0.318
+[BKD2008] WR 52,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=%5BBKD2008%5D+WR+52,13.989,0.0053409,1601.16869,https://skyserver.sdss.org/dr12/en/tools/explore/Summary.aspx?ra=41.606&dec=-0.499
+NGC 5334,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+5334,33.32,0.008086,2424.14183,https://skyserver.sdss.org/dr12/en/tools/explore/Summary.aspx?ra=208.227&dec=-1.114
+NGC 5496,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+5496,21.887,0.005328,1597.276528,https://skyserver.sdss.org/dr12/en/tools/explore/summary.aspx?id=1237648702979375194%09
+MCG+00-34-005,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=MCG%2B00-34-005,71.1,0.02147,6436.987403,https://skyserver.sdss.org/dr12/en/tools/explore/summary.aspx?id=1237648703509364815%09
+NGC 5705,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+5705,26.193,0.006067,1818.881447,https://skyserver.sdss.org/dr12/en/tools/explore/summary.aspx?id=1237648703519326351
+NGC 5584,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+5584,21.619,0.005769,1729.605252,https://skyserver.sdss.org/dr12/en/tools/explore/summary.aspx?id=1237648704054296626%09
+NGC 4355,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+4355,22.967,0.010573,3169.576706,https://skyserver.sdss.org/dr12/en/tools/explore/summary.aspx?id=1237648720159965190%09
+NGC 5211,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+5211,47.325,0.015743,4719.729219,https://skyserver.sdss.org/dr12/en/tools/explore/summary.aspx?id=1237648720167174259%09
+IC 653,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=IC+653,80.933,0.0220288,6604.052932,https://skyserver.sdss.org/dr12/en/tools/explore/summary.aspx?id=1237648720686415913
+NGC 4592,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+4592,11.589,0.003809,1141.998214,https://skyserver.sdss.org/dr12/en/tools/explore/summary.aspx?id=1237648720698146893%09
+NGC 4668,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+4668,16.537,0.005666,1698.603879,https://skyserver.sdss.org/dr12/en/tools/explore/summary.aspx?id=1237648720698867721%09
+NGC 3325,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+3325,60,0.019074,5718.126509,https://skyserver.sdss.org/dr12/en/tools/explore/summary.aspx?id=1237648721221910580%09
+Mrk 778,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=Mrk+778,106,0.026642,7987.126569,https://skyserver.sdss.org/dr12/en/tools/explore/summary.aspx?id=1237648721771888672%09
+NGC 3719,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+3719,88.571,0.019903,5966.752469,https://skyserver.sdss.org/dr12/en/tools/explore/summary.aspx?id=1237648722301419653%09
+UGC 6903,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=UGC+6903,30.5,0.006539,1960.487848,https://skyserver.sdss.org/dr12/en/tools/explore/summary.aspx?id=1237648722840846413%09
+UGC 1083,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=UGC+1083,72,0.015382,4611.372517,https://skyserver.sdss.org/dr12/en/tools/explore/summary.aspx?id=1237649919505858723%09
+NGC 774,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+774,54.775,0.01887,5657.206779,https://skyserver.sdss.org/dr12/en/tools/explore/summary.aspx?id=1237649954407907351%09
+NGC 1285,https://ned.ipac.caltech.edu/cgi-bin/nDistance?name=NGC+1285,55.333,0.017807,5338.457779,https://skyserver.sdss.org/dr12/en/tools/explore/summary.aspx?id=1237649962454941712%09
